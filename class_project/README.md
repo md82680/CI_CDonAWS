@@ -1,3 +1,4 @@
+# This project is an exercise to test integration of my git repository with AWS cloudbuild
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
